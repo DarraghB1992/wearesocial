@@ -1,0 +1,11 @@
+{% extends "base.html"%}
+{% block content %}
+<h2>Success!</h2>
+<p>You are logged in as {{ user.email }}</p>
+<p>{{ post }} {{ get }}</p>
+<div>
+<h2>Subscription Details</h2>
+<p>You're subscription ends on {{ user.subscription_end }}</p>
+{#<a href="{% url 'cancel_subscription' %}" onclick="return cancel"></a>#}
+</div>
+{% endblock %}
