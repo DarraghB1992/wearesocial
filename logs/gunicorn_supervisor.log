@@ -1,0 +1,96 @@
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /webapps/wearesocial/bin/gunicorn_start: ENOEXEC
+supervisor: child process was not spawned
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+/webapps/wearesocial/bin/gunicorn_start: line 13: echoStarting  as wearesocial: command not found
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicornwearesocial.wsgi:application: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
+Starting  as wearesocial
+/webapps/wearesocial/bin/gunicorn_start: line 23: /webapps/wearesocial/wearesocial/..bin/gunicorn: No such file or directory
